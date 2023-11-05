@@ -1,4 +1,4 @@
 ﻿# Google-Logo
 
-![googlelogo](https://github.com/SemihParlak/Google-Logo/assets/124163896/4c59fe50-3eb2-4cb8-b35c-1d11717e8f45)
 
+![googlelogo](https://github.com/SemihParlak/Google-Logo/assets/124163896/5afe9310-dd79-44ed-ab17-e77ae78873de)
